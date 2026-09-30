@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# Secrets / environment
+.env
+*.env
+
+# Raw / downloaded data
+*.csv
+*.parquet
+*.xlsx
+
+# Generated outputs
+
+*.pdf
+
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.nav
+*.snm
+*.vrb
+
+# Temporary files
+*.tmp
+*.bak
+
+*.zip
